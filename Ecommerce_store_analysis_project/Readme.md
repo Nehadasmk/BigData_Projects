@@ -68,4 +68,4 @@ gcloud auth application-default login
 
 ## Architecture Flow
 
-![E-Commerce store](images\ecom_store_analysis.drawio.png)
+![E-Commerce store](https://github.com/Nehadasmk/BigData_Projects/blob/main/Ecommerce_store_analysis_project/images/ecom_store_analysis.drawio.png)
