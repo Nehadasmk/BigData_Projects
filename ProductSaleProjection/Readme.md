@@ -47,4 +47,4 @@ Athena enables dynamic, on-the-fly analysis of the sales data stored in S3. With
 
 The Glue Catalog stores metadata about the data stored in S3, including schema information, partitioning details, and data formats. This metadata management ensures that the data is properly organized and cataloged, making it easy to query and analyze
 
-![Product_sale_projection](images\ProductionSaleIngestion.drawio.png)
+![Product_sale_projection](https://github.com/Nehadasmk/BigData_Projects/blob/main/ProductSaleProjection/images/ProductionSaleIngestion.drawio.png)
