@@ -41,7 +41,7 @@ The "Quality Movie Data Ingestion" project involves batch processing of data ret
 
 ## Development Steps
 
-![Alt Text Center](images\ETL-pipeline.png)
+![Alt Text Center](https://github.com/Nehadasmk/BigData_Projects/blob/main/Movie_quality_data_ingestion_Project/images/ETL-pipeline.png)
 
 
 1. **S3 Bucket Creation:**
